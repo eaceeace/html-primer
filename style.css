@@ -1,0 +1,48 @@
+/* external css */
+
+th{
+	color: darkgreen;
+	 font-family: Arial, sans-serif;
+}
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url("85120553.webp");
+            background-size: cover; /* Adjusts the background image to cover the entire body */
+            background-repeat: no-repeat; /* Prevents the background image from repeating */
+     }
+
+header, footer {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-family: fantasy;
+        }
+
+footer {
+            position: dynammic; /* dynammic or fixed */
+            bottom: 0;   
+            width: 100%;   
+        }
+div{ /* class selector */
+	        text-align: justify-all;
+            margin: 20px;
+            width: 80%;}   
+
+a,p,dd{
+	font-family: fantasy;
+	color: orange;
+} 
+h4,dt{ 
+       font-family: fantasy;
+	color: antiquewhite;
+}
+img {border-radius: 50px;
+    }
+#surveyForm{
+	font-family: fantasy;
+	color: white;
+}
+
